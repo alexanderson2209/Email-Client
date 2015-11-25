@@ -1,0 +1,3 @@
+TIGER: Catch the Jackrabbit: Objective: Capture the rogue agent ALIVE!
+Location: Rio de Janeiro, Brazil Longitude: 22? 57' Latitude: 43? 12'
+Time: 10:00 AM
